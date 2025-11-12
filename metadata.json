@@ -1,0 +1,5 @@
+{
+  "name": "Pakistan Studies MCQ Generator",
+  "description": "An AI-powered application to generate Multiple Choice Questions (MCQs) on any topic related to Pakistan Studies, complete with Urdu translations and difficulty levels.",
+  "requestFramePermissions": []
+}
